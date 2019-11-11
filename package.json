@@ -1,0 +1,25 @@
+{
+  "name": "test-from-lad",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgboy/for-lad-with-love.git"
+  },
+  "keywords": [
+    "webscraping"
+  ],
+  "author": "D.G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgboy/for-lad-with-love/issues"
+  },
+  "homepage": "https://github.com/dgboy/for-lad-with-love#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
