@@ -2,7 +2,7 @@
   "name": "test-from-lad",
   "version": "1.0.0",
   "description": "Test task",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/dgboy/for-lad-with-love#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0",
+    "jsdom": "^15.2.1",
+    "node-fetch": "^2.6.0"
   }
 }
