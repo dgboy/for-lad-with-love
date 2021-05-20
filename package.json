@@ -21,7 +21,7 @@
   "homepage": "https://github.com/dgboy/for-lad-with-love#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "jsdom": "^15.2.1",
     "node-fetch": "^2.6.1"
   }
